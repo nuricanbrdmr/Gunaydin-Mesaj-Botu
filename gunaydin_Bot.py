@@ -25,7 +25,7 @@ def random_msg(): # Random Mesaj için hazırlanmış Array barındıran Fonksiy
 
     return msgs[rand_num]
 
-to_number = "+905535764453" # Gönderilecek kişinin numarası
+to_number = "+905111111111" # Gönderilecek kişinin numarası
 send_time = "08:30"         # Gönderilecek Saat
 msg = random_msg()          # Gönderilecek Mesaj
 
